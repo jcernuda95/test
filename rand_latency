@@ -1,0 +1,4 @@
+Latency Random: 8 number of cores, 1 size of blockA1: -0.06 A2: -0.62 B1: 0.00 B2: 0.00 A1: -0.06 A2: -0.62 B1: 0.00 B2: 0.00 A1: -0.06 A2: -0.62 B1: 0.00 B2: 0.00 A1: -0.06 A2: -0.62 B1: 0.00 B2: 0.00 A1: -0.06 A2: -0.62 B1: 0.00 B2: 0.00 A1: -0.06 A2: -0.62 B1: 0.00 B2: 0.00 A1: -0.06 A2: -0.62 B1: 0.00 B2: 0.00 A1: -0.06 A2: -0.62 B1: 0.00 B2: 0.00 Total time (GETTIME) = 390.067784 seconds
+Latency Random: 4 number of cores, 1 size of blockA1: -0.82 A2: 0.67 B1: 0.00 B2: 0.00 A1: -0.82 A2: 0.67 B1: 0.00 B2: 0.00 A1: -0.82 A2: 0.67 B1: 0.00 B2: 0.00 A1: -0.82 A2: 0.67 B1: 0.00 B2: 0.00 Total time (GETTIME) = 168.240186 seconds
+Latency Random: 2 number of cores, 1 size of blockA1: -0.31 A2: 0.18 B1: 0.00 B2: 0.00 A1: -0.31 A2: 0.18 B1: 0.00 B2: 0.00 Total time (GETTIME) = 78.326894 seconds
+Latency Random: 1 number of cores, 1 size of blockA1: -0.10 A2: 0.13 B1: 0.00 B2: 0.00 Total time (GETTIME) = 16.017415 seconds
